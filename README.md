@@ -1,2 +1,2 @@
 # Mon_Blog
-blog react jsx
+blog react js
